@@ -44,6 +44,8 @@ The clustered bubble plot below shows the bike utilization in NYC by showing a d
 ## Summary
 In NYC, bike usage was high with over 2 million bike rides undertaken in the month of August. Men were more likely to use bike sharing services. The subscribers formed the highest proportion of total users. The peak usage times were weekday mornings and weekday evenings. Most bike rides tended to be of relatively short duration (under 20 minutes). Over time the bike utilization builds up and needs to be taken into account together with peak bike usage times to plan when to conduct bike maintenance. In order to determine the feasability of this project in Des Moines it would be helpful to gather more data from Des Moines. Helpful data would include, what the current mode of transportation is for most people and the demographics of the population there. 
 
+[link to dashboard](https://public.tableau.com/profile/rc5358#!/vizhome/NYC_citibike_challenge/NYCBikeRides?publish=yes)
+
 
 
 
