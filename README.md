@@ -18,7 +18,7 @@ Duration for most rides was 20 minutes or less. See line graph below.
 
 
 Average trip duration varied by age, peaking among those born in 1969 and gradually increasing among those born in 1940 to 2000. 
-![trip duration]"https://github.com/roomasa/bikesharing/blob/main/Average%20trip%20duration%20by%20age.png"
+![trip duration](https://github.com/roomasa/bikesharing/blob/main/Average%20trip%20duration%20by%20age.png)
 
 Overall bike rides were more common among men, the trend for bike rides being mostly under 20 minutes was same for men and women. See figure below. 
 
