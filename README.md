@@ -14,7 +14,7 @@ To help analyze bikesharing data, determine maximum use times, determine who the
  
 The dataset overall included information on 2,344,224 bike rides.
 
-Duration for most rides was 20 minutes or less. See line graph below.
+Duration for most rides was 20 minutes or less with most likely duration being 6 minutes. See line graph below.
 ![figure](https://github.com/roomasa/bikesharing/blob/main/Checkout%20times%20for%20users.png)
 
 
